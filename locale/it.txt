@@ -1,0 +1,55 @@
+#: locale=it
+
+## Tour
+
+### Descrizione
+
+### Titolo
+tour.name = Casa Spa
+
+## Media
+
+### Titolo
+panorama_5D4A04E7_54BF_E439_41B6_8C29AD1F6EBD.label = angolo poster sx
+panorama_5D4A2D05_54BF_E5F9_41C7_5F06585CB293.label = laterale solar wall
+panorama_5D4A5C9C_54B8_240F_41A6_DA157C07F073.label = centrale posteriore
+panorama_5D4A9C22_54B8_643B_41D3_B4FDFB118520.label = angolo dx 
+panorama_5D4A9CCE_54B8_240B_41CC_42F8EBBC10DA.label = angolo post dx
+panorama_5D4AA469_54B8_2409_41D3_160EBEF283B5.label = laterale dx
+panorama_5D4AE39A_54B8_1C0A_41BB_1D4B722752F4.label = centrale anteriore
+panorama_5D4DDCD3_54B8_2419_419C_EDACBBC83482.label = tetto centrale
+panorama_5D4DF4EC_54B8_240F_419F_A174A531EB36.label = angolo anteriore sx
+panorama_5D4E058E_54B8_240A_41B3_C9A70ECC3FFD.label = tetto dx
+panorama_5EA102E4_54B8_3C3F_41BA_EA59ECC65D1D.label = Drone Laterale DX 
+panorama_5EA29BBD_54B8_2C09_41B2_552D9754EBAA.label = Drone solar wall
+panorama_5EA2C76D_54B8_6409_41CA_C9B86AFB1CE6.label = Drone posteriore centrale
+panorama_5FB00E29_54B8_2409_41C0_BF2DDC020DB8.label = Drone Anteriore centrale
+
+## Popup
+
+### Corpo
+htmlText_4CF918BD_55C8_2C09_41CD_1AB8BAF976F0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Solar Wall transforms solar energy into hot air which is fed to the central HVAC system. The HVAC system uses a heat-pump to utilize the solar wall energy to both cool down and heat up the building. At the Italian demo site, the package is meant to use the pre-heat air from the SolarWall technology, a transpired solar thermal collector, to improve the NIBE heat pump COP. Ventilation strategies are adopted through a heat recovery ventilation unit integrated in the Solar Window Block to optimize indoor environmental quality and energy consumption.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_72D18E9F_5578_E409_41C1_4188844B0135.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The HVAC system uses a heat-pump to utilize the solar wall energy to both cool down and heat up the building. At the Italian demo site, the package is meant to use the pre-heat air from the SolarWall technology, a transpired solar thermal collector, to improve the NIBE heat pump COP. Ventilation strategies are adopted through a heat recovery ventilation unit integrated in the Solar Window Block to optimize indoor environmental quality and energy consumption.</SPAN></DIV></BODY></HTML></div>
+htmlText_74744F21_5548_2439_41A4_B2E94DC42A45.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Solar Window Block is an autonomous modular and flexible solution aimed at improving building energy efficiency and increasing indoor comfort, while also generating energy from a renewable source. The window block is a physical framework surrounding the window frame made of insulating materials, composite wood, metal supports and sealing bands. The Solar Window Block features a mechanical ventilation system, integrated shading system and integrated BIPV. Pellini has provided the shading devices together with their actuators and remote control hub. EuroFinestra has manufactured the window and insulating frame, as well as provided and integrated all the rest of required components in the Solar Window Block system</SPAN></DIV></BODY></HTML></div>
+htmlText_763169C4_5548_6C7F_41D0_82E2E3855037.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The vertical panels were installed with the TULiPPS Click-&amp;-Go technology for easy, fast and reliable installation. The glass-glass PV panels were provided by ONYX. With the Click-&amp;-Go mounting system, BIPV installers can click modules directly onto a pre-fabricated vertical mounting rails with adjustable axels allowing for the installation of various PV models. The Click-&amp;-Go system is aesthetically appealing and reduces installation time and costs, prevents mistakes, and allows for easy maintenance of the installation. </SPAN></DIV></BODY></HTML></div>
+htmlText_764CE767_5548_243A_41B8_DCD13083FD4B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The EnergyMatching Tool, developed by EURAC, supported the preliminary design of the PV system in the multifamily dwelling unit of Campi Bisenzio. Indicating position and capacity of the PV modules, and also capacity of the electric storage, the tool suggested the optimal solution according to the specificities of the building (geometry and energy demand), the technologies (costs and technical features) and the context (irradiation conditions and electricity cost). The tool provided a set of indicators, as an insight on the PV system expected performance.</SPAN></DIV></BODY></HTML></div>
+htmlText_76FE6698_55B8_2417_41BB_E32F7A0A3AA2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Solar Wall transforms solar energy into hot air which is fed to the central HVAC system. The HVAC system uses a heat-pump to utilize the solar wall energy to both cool down and heat up the building. At the Italian demo site, the package is meant to use the pre-heat air from the SolarWall technology, a transpired solar thermal collector, to improve the NIBE heat pump COP. Ventilation strategies are adopted through a heat recovery ventilation unit integrated in the Solar Window Block to optimize indoor environmental quality and energy consumption.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV></BODY></HTML></div>
+htmlText_776743FF_5548_7C09_4148_9D3438732C7C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The solar panels installed utilize the TULiPPS Click-&amp;-Go installation system with composite PV modules from Tecnalia. With the Click-&amp;-Go mounting system, BIPV installers can click modules directly onto a pre-fabricated vertical mounting rails with adjustable axels allowing for the installation of various PV models. The Click-&amp;-Go system is aesthetically appealing and reduces installation time and costs, prevents mistakes, and allows for easy maintenance of the installation. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV></BODY></HTML></div>
+htmlText_7957C72D_5578_6409_41C3_28B41BEDD057.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The HVAC system uses a heat-pump to utilize the solar wall energy to both cool down and heat up the building. At the Italian demo site, the package is meant to use the pre-heat air from the SolarWall technology, a transpired solar thermal collector, to improve the NIBE heat pump COP. Ventilation strategies are adopted through a heat recovery ventilation unit integrated in the Solar Window Block to optimize indoor environmental quality and energy consumption.</SPAN></DIV></BODY></HTML></div>
+
+### Titolo
+window_4B7C23AD_55BB_FC09_4197_2C8899EE388B.title = SOLAR WALL
+window_72D04E9F_5578_E409_41A8_4AC5B99E1468.title = HVAC System
+window_74748F21_5548_2439_41D4_D87F02D7401D.title = SOLAR WINDOW BLOCK
+window_7631B9C4_5548_6C7F_41CD_D4DF1094BD99.title = Click-&-Go system -> Vertical solar panels
+window_7954172E_5578_640B_41C4_A78C154FCA34.title = HVAC System
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4069A755_55C8_2419_41BA_6610E236035A.toolTip = Centrale Anteriore
+HotspotPanoramaOverlayArea_413A6B11_55C8_2C19_41C4_4F236E5A4C0E.toolTip = Centrale Posteriore
+HotspotPanoramaOverlayArea_415DB6FE_55C8_240B_41C0_B2F060E24AAF.toolTip = Drone Laterale
+HotspotPanoramaOverlayArea_41F03F9A_55C8_240B_41C2_155EA98F99B3.toolTip = Drone Centrale Anteriore
+HotspotPanoramaOverlayArea_46E98982_55C9_ECFB_41D1_A19A7E1646FD.toolTip = Tetto Centrale
+HotspotPanoramaOverlayArea_4D0844EE_55C8_640B_41CB_64AAFE4F9E2B.toolTip = Solar Wall
